@@ -1,0 +1,20 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f7f7f7; }
+.navbar { background: hsl(210, 89%, 45%); padding: 1rem 2rem; }
+.nav-brand { color: white; text-decoration: none; font-size: 1.3rem; font-weight: bold; }
+.container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+.post-card { background: white; padding: 1.5rem; margin-bottom: 1rem; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.post-meta { color: #777; font-size: 0.9rem; }
+
+.link-button {
+    background: none;
+    border: none;
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0;
+}
+
+
+.btn { display: inline-block; padding: 0.5rem 1rem; background: #2c3e50; color: white; text-decoration: none; border-radius: 4px; border: none; cursor: pointer; margin-right: 0.5rem; font-size: 1rem; }
+.btn-danger { background: #c0392b; }
